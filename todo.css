@@ -1,0 +1,31 @@
+.todo-container{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f6f6f6;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+    
+}
+.todo-header{
+    font-size: 48px;
+    font-weight: bold;
+    color: #333333;
+}
+.todo-card-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.todo-card{
+    border: 2px solid #e6e6e6;
+    font-size: 20px;
+    padding: 30px 24px;
+    color: #333333;
+    font-weight: bold;
+    border-radius: 4px;
+    
+}
+.todo-card2{
+    margin-top: 24px;
+}
